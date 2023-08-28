@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/rqt_mav_manager/lib/python3/dist-packages/rqt_mav_manager/__init__.py

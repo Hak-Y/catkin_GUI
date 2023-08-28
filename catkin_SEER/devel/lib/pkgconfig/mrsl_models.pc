@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/mrsl_models/lib/pkgconfig/mrsl_models.pc

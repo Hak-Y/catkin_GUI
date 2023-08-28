@@ -1,0 +1,8 @@
+prefix=/home/hak/catkin_SEER/devel/.private/occ_predictor
+
+Name: occ_predictor
+Description: Description of occ_predictor
+Version: 0.0.0
+Cflags: -I/home/hak/catkin_SEER/src/SEER/map_pred_utils/occ_predictor/include
+Libs: -L${prefix}/lib -lmap_generator
+Requires: roscpp std_msgs geometry_msgs message_runtime occ_predictor_msgs

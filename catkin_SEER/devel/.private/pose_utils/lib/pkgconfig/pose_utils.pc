@@ -1,0 +1,8 @@
+prefix=/home/hak/catkin_SEER/devel/.private/pose_utils
+
+Name: pose_utils
+Description: Description of pose_utils
+Version: 0.0.0
+Cflags: -I/home/hak/catkin_SEER/src/SEER/third_party/pose_utils/include
+Libs: -L${prefix}/lib -lpose_utils
+Requires: 

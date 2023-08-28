@@ -1,0 +1,22 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _occ_predictor_msgs_generate_messages_check_deps_PredictPCL
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[ 28%] Built target occ_predictor_msgs_generate_messages_py
+[ 42%] Built target occ_predictor_msgs_generate_messages_nodejs
+[ 57%] Built target occ_predictor_msgs_generate_messages_cpp
+[100%] Built target occ_predictor_msgs_generate_messages_lisp
+[100%] Built target occ_predictor_msgs_generate_messages_eus
+[100%] Built target occ_predictor_msgs_generate_messages

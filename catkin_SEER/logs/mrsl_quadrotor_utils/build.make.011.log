@@ -1,0 +1,8 @@
+[ 12%] Built target tf_pub
+[ 25%] Built target publish_rotate
+[ 37%] Built target change_header
+[ 50%] Built target msg_to_tf
+[ 62%] Built target change_odom
+[ 75%] Built target change_frame
+[ 87%] Built target publish_horizon
+[100%] Built target publish_tf

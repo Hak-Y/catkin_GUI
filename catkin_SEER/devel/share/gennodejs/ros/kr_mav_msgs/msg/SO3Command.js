@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/kr_mav_msgs/share/gennodejs/ros/kr_mav_msgs/msg/SO3Command.js

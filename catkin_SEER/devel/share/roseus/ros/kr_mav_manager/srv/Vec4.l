@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/kr_mav_manager/share/roseus/ros/kr_mav_manager/srv/Vec4.l

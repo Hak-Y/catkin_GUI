@@ -1,0 +1,6 @@
+devel_space: /home/hak/catkin_SEER/devel
+install: false
+install_space: /home/hak/catkin_SEER/install
+profile: default
+source_space: /home/hak/catkin_SEER/src
+workspace: /home/hak/catkin_SEER

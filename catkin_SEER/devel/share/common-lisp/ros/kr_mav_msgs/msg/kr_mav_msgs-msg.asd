@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/kr_mav_msgs/share/common-lisp/ros/kr_mav_msgs/msg/kr_mav_msgs-msg.asd

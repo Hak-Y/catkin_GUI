@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/exploration_manager/lib/pkgconfig/exploration_manager.pc

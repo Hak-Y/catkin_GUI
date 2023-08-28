@@ -1,0 +1,4 @@
+Symlinking /home/hak/catkin_SEER/devel/lib/python3/dist-packages/kr_python_interface/__init__.py
+Symlinking /home/hak/catkin_SEER/devel/lib/pkgconfig/kr_python_interface.pc
+Symlinking /home/hak/catkin_SEER/devel/share/kr_python_interface/cmake/kr_python_interfaceConfig.cmake
+Symlinking /home/hak/catkin_SEER/devel/share/kr_python_interface/cmake/kr_python_interfaceConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/kr_mav_msgs/lib/python3/dist-packages/kr_mav_msgs/msg/_StatusData.py

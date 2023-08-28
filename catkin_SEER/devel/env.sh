@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/catkin_tools_prebuild/env.sh

@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/kr_trackers_manager/share/kr_trackers_manager/cmake/kr_trackers_managerConfig.cmake

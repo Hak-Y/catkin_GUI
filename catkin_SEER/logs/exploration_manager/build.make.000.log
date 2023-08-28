@@ -1,0 +1,47 @@
+[35m[1mScanning dependencies of target exploration_node[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/exploration_node.dir/src/exploration_node.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/exploration_node.dir/src/bg_exploration_fsm.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/exploration_node.dir/src/bg_exploration_manager.cpp.o[0m
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:[m[K In member function ‘[01m[Kvoid bg_planner::bgExplorationFSM::FSMCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:99:15:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kres[m[K’ [[01;35m[K-Wunused-variable[m[K]
+   99 |           int [01;35m[Kres[m[K = expl_manager_->planBC(cur_target_pos_, cur_target_yaw_,
+      |               [01;35m[K^~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/include/exploration_manager/bg_exploration_manager.h:4[m[K,
+                 from [01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:2[m[K:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:[m[K In member function ‘[01m[Kint bg_planner::bgExplorationManager::planExploreMotionBC(const Vector3d&, const Vector3d&, const Vector3d&, const Vector3d&)[m[K’:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:425:21:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+  425 |           ROS_ERROR([01;35m[K"Number of ROOM FTRS %d"[m[K, [32m[Ked_->points_.size()[m[K);
+      |                     [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                [32m[K|[m[K
+      |                                                                [32m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type {aka long unsigned int}[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:425:43:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  425 |           ROS_ERROR("Number of ROOM FTRS [01;36m[K%d[m[K", ed_->points_.size());
+      |                                          [01;36m[K~^[m[K
+      |                                           [01;36m[K|[m[K
+      |                                           [01;36m[Kint[m[K
+      |                                          [32m[K%ld[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:101:10:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kt2[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  101 |     auto [01;35m[Kt2[m[K = t1;
+      |          [01;35m[K^~[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:[m[K In member function ‘[01m[Kvoid bg_planner::bgExplorationFSM::publishTraj()[m[K’:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:340:26:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  340 |       for (uint c = 0; [01;35m[Kc <= order[m[K; c++) {
+      |                        [01;35m[K~~^~~~~~~~[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:364:28:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  364 |         for (uint c = 0; [01;35m[Kc <= order[m[K; c++) {
+      |                          [01;35m[K~~^~~~~~~~[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:[m[K In member function ‘[01m[Kvoid bg_planner::bgExplorationFSM::visualize()[m[K’:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_fsm.cpp:389:10:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kinfo[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  389 |     auto [01;35m[Kinfo[m[K = &planner_manager_->local_data_;
+      |          [01;35m[K^~~~[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:[m[K In member function ‘[01m[Kint bg_planner::bgExplorationManager::planBC(const Vector3d&, const double&, const Vector3d&, const Vector3d&, const Vector3d&, const Vector3d&)[m[K’:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:687:29:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  687 |           for (int i = 1; [01;35m[Ki < ed_->path_next_goal_.size()[m[K && len2 < radius_far_; ++i)
+      |                           [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:[m[K In member function ‘[01m[Kint bg_planner::bgExplorationManager::planExploreMotionBC(const Vector3d&, const Vector3d&, const Vector3d&, const Vector3d&)[m[K’:
+[01m[K/home/hak/catkin_SEER/src/SEER/planner/exploration_manager/src/bg_exploration_manager.cpp:558:3:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  558 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[100%] [32m[1mLinking CXX executable /home/hak/catkin_SEER/devel/.private/exploration_manager/lib/exploration_manager/exploration_node[0m
+[100%] Built target exploration_node

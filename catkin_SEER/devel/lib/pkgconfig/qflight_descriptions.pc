@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/qflight_descriptions/lib/pkgconfig/qflight_descriptions.pc

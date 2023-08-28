@@ -1,0 +1,1 @@
+/home/hak/catkin_SEER/devel/.private/occ_predictor_msgs/share/roseus/ros/occ_predictor_msgs/manifest.l

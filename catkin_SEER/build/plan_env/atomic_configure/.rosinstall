@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hak/catkin_SEER/devel/.private/plan_env/setup.sh
