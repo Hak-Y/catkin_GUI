@@ -1,6 +1,0 @@
-kr_mav_control/interfaces/kr_python_interface
-/home/hak/catkin_SEER/devel/.private/kr_python_interface/cmake.lock /home/hak/catkin_SEER/devel/./cmake.lock
-/home/hak/catkin_SEER/devel/.private/kr_python_interface/lib/python3/dist-packages/kr_python_interface/__init__.py /home/hak/catkin_SEER/devel/lib/python3/dist-packages/kr_python_interface/__init__.py
-/home/hak/catkin_SEER/devel/.private/kr_python_interface/lib/pkgconfig/kr_python_interface.pc /home/hak/catkin_SEER/devel/lib/pkgconfig/kr_python_interface.pc
-/home/hak/catkin_SEER/devel/.private/kr_python_interface/share/kr_python_interface/cmake/kr_python_interfaceConfig.cmake /home/hak/catkin_SEER/devel/share/kr_python_interface/cmake/kr_python_interfaceConfig.cmake
-/home/hak/catkin_SEER/devel/.private/kr_python_interface/share/kr_python_interface/cmake/kr_python_interfaceConfig-version.cmake /home/hak/catkin_SEER/devel/share/kr_python_interface/cmake/kr_python_interfaceConfig-version.cmake

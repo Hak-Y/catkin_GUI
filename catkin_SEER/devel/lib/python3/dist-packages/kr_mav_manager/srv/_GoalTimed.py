@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_mav_manager/lib/python3/dist-packages/kr_mav_manager/srv/_GoalTimed.py

@@ -1,8 +1,0 @@
-prefix=/home/hak/catkin_SEER/install
-
-Name: mrsl_mobile_object
-Description: Description of mrsl_mobile_object
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp gazebo_ros kr_mav_msgs

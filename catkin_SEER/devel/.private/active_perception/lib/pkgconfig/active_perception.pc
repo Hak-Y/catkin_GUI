@@ -1,8 +1,0 @@
-prefix=/home/hak/catkin_SEER/devel/.private/active_perception
-
-Name: active_perception
-Description: Description of active_perception
-Version: 0.0.0
-Cflags: -I/home/hak/catkin_SEER/src/SEER/planner/active_perception/include
-Libs: -L${prefix}/lib -lactive_perception
-Requires: plan_env path_searching occ_predictor_msgs

@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/occ_predictor_msgs/share/gennodejs/ros/occ_predictor_msgs/_index.js

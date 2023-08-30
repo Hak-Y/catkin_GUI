@@ -1,5 +1,0 @@
-mrsl_quadrotor/mrsl_quadrotor_launch
-/home/hak/catkin_SEER/devel/.private/mrsl_quadrotor_launch/cmake.lock /home/hak/catkin_SEER/devel/./cmake.lock
-/home/hak/catkin_SEER/devel/.private/mrsl_quadrotor_launch/lib/pkgconfig/mrsl_quadrotor_launch.pc /home/hak/catkin_SEER/devel/lib/pkgconfig/mrsl_quadrotor_launch.pc
-/home/hak/catkin_SEER/devel/.private/mrsl_quadrotor_launch/share/mrsl_quadrotor_launch/cmake/mrsl_quadrotor_launchConfig-version.cmake /home/hak/catkin_SEER/devel/share/mrsl_quadrotor_launch/cmake/mrsl_quadrotor_launchConfig-version.cmake
-/home/hak/catkin_SEER/devel/.private/mrsl_quadrotor_launch/share/mrsl_quadrotor_launch/cmake/mrsl_quadrotor_launchConfig.cmake /home/hak/catkin_SEER/devel/share/mrsl_quadrotor_launch/cmake/mrsl_quadrotor_launchConfig.cmake

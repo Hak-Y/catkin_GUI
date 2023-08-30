@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_mesh_visualization/lib/pkgconfig/kr_mesh_visualization.pc

@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -std=c++14  -O3 -Wall   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/home/hak/catkin_SEER/build/active_perception/gtest/lib ../lib/libgtest.so -lpthread 

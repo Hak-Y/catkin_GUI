@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/mrsl_quadrotor_simulator/lib/pkgconfig/mrsl_quadrotor_simulator.pc

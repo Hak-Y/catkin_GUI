@@ -1,6 +1,0 @@
-catkin_simple
-/home/hak/catkin_SEER/devel/.private/catkin_simple/cmake.lock /home/hak/catkin_SEER/devel/./cmake.lock
-/home/hak/catkin_SEER/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc /home/hak/catkin_SEER/devel/lib/pkgconfig/catkin_simple.pc
-/home/hak/catkin_SEER/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake /home/hak/catkin_SEER/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
-/home/hak/catkin_SEER/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake /home/hak/catkin_SEER/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
-/home/hak/catkin_SEER/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake /home/hak/catkin_SEER/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake

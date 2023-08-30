@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_mav_controllers/include/kr_mav_controllers/SO3Config.h

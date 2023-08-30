@@ -1,8 +1,0 @@
-prefix=/home/hak/catkin_SEER/install
-
-Name: mrsl_models
-Description: Description of mrsl_models
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

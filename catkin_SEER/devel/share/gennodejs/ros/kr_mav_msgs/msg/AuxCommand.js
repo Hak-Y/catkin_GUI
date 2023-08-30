@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_mav_msgs/share/gennodejs/ros/kr_mav_msgs/msg/AuxCommand.js

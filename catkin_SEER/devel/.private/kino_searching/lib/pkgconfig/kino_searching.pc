@@ -1,8 +1,0 @@
-prefix=/home/hak/catkin_SEER/devel/.private/kino_searching
-
-Name: kino_searching
-Description: Description of kino_searching
-Version: 1.0.0
-Cflags: -I/home/hak/catkin_SEER/src/SEER/planner/kino_searching/include
-Libs: -L${prefix}/lib -lkino_searching
-Requires: plan_env traj_utils active_perception

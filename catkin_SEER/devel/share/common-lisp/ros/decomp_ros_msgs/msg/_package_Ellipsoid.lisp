@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/decomp_ros_msgs/share/common-lisp/ros/decomp_ros_msgs/msg/_package_Ellipsoid.lisp

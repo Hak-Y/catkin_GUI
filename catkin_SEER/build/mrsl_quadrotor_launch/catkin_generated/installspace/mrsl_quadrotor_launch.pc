@@ -1,8 +1,0 @@
-prefix=/home/hak/catkin_SEER/install
-
-Name: mrsl_quadrotor_launch
-Description: Description of mrsl_quadrotor_launch
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

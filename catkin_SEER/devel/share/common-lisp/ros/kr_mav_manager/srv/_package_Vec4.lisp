@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_mav_manager/share/common-lisp/ros/kr_mav_manager/srv/_package_Vec4.lisp

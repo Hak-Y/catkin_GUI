@@ -1,0 +1,2 @@
+ros_logger/src/swri_console
+-DCATKIN_DEVEL_PREFIX=/home/hak/catkin_GUI/devel -DCMAKE_INSTALL_PREFIX=/home/hak/catkin_GUI/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/choi/ros_logger/install
+
+Name: swri_console
+Description: Description of swri_console
+Version: 1.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rosbag_storage roscpp rosgraph_msgs

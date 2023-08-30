@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/choi/ros_logger/devel/setup.sh

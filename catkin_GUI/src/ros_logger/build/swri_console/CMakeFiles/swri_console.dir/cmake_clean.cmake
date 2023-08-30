@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/choi/ros_logger/devel/lib/swri_console/swri_console"
+  "/home/choi/ros_logger/devel/lib/swri_console/swri_console.pdb"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_bag_reader.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_console_master.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_console_window.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_log_database.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_log_database_proxy_model.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_node_click_handler.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_node_list_model.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_ros_thread.cpp.o"
+  "CMakeFiles/swri_console.dir/include/swri_console/moc_rosout_log_loader.cpp.o"
+  "CMakeFiles/swri_console.dir/qrc_images.cpp.o"
+  "CMakeFiles/swri_console.dir/src/bag_reader.cpp.o"
+  "CMakeFiles/swri_console.dir/src/console_master.cpp.o"
+  "CMakeFiles/swri_console.dir/src/console_window.cpp.o"
+  "CMakeFiles/swri_console.dir/src/log_database.cpp.o"
+  "CMakeFiles/swri_console.dir/src/log_database_proxy_model.cpp.o"
+  "CMakeFiles/swri_console.dir/src/main.cpp.o"
+  "CMakeFiles/swri_console.dir/src/node_click_handler.cpp.o"
+  "CMakeFiles/swri_console.dir/src/node_list_model.cpp.o"
+  "CMakeFiles/swri_console.dir/src/ros_thread.cpp.o"
+  "CMakeFiles/swri_console.dir/src/rosout_log_loader.cpp.o"
+  "CMakeFiles/swri_console.dir/src/settings_keys.cpp.o"
+  "include/swri_console/moc_bag_reader.cpp"
+  "include/swri_console/moc_console_master.cpp"
+  "include/swri_console/moc_console_window.cpp"
+  "include/swri_console/moc_log_database.cpp"
+  "include/swri_console/moc_log_database_proxy_model.cpp"
+  "include/swri_console/moc_node_click_handler.cpp"
+  "include/swri_console/moc_node_list_model.cpp"
+  "include/swri_console/moc_ros_thread.cpp"
+  "include/swri_console/moc_rosout_log_loader.cpp"
+  "qrc_images.cpp"
+  "ui_console_window_rqt.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/swri_console.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_mav_msgs/include/kr_mav_msgs/SO3Command.h

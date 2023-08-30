@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_python_interface/lib/python3/dist-packages/kr_python_interface/__init__.py

@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kino_searching/share/kino_searching/cmake/kino_searchingConfig-version.cmake

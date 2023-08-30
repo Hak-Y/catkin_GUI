@@ -1,2 +1,0 @@
-set(kr_mav_manager_MESSAGE_FILES "")
-set(kr_mav_manager_SERVICE_FILES "/home/hak/catkin_SEER/src/kr_mav_control/kr_mav_manager/srv/Vec4.srv;/home/hak/catkin_SEER/src/kr_mav_control/kr_mav_manager/srv/GoalTimed.srv;/home/hak/catkin_SEER/src/kr_mav_control/kr_mav_manager/srv/Circle.srv;/home/hak/catkin_SEER/src/kr_mav_control/kr_mav_manager/srv/Lissajous.srv;/home/hak/catkin_SEER/src/kr_mav_control/kr_mav_manager/srv/CompoundLissajous.srv")

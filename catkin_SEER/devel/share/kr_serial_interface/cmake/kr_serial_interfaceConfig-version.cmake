@@ -1,1 +1,0 @@
-/home/hak/catkin_SEER/devel/.private/kr_serial_interface/share/kr_serial_interface/cmake/kr_serial_interfaceConfig-version.cmake

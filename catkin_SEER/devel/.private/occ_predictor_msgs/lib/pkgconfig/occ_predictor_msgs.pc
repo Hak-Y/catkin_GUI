@@ -1,8 +1,0 @@
-prefix=/home/hak/catkin_SEER/devel/.private/occ_predictor_msgs
-
-Name: occ_predictor_msgs
-Description: Description of occ_predictor_msgs
-Version: 0.0.0
-Cflags: -I/home/hak/catkin_SEER/devel/.private/occ_predictor_msgs/include
-Libs: -L${prefix}/lib 
-Requires: nav_msgs roscpp rospy sensor_msgs std_msgs message_runtime

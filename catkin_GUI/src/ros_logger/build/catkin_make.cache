@@ -1,0 +1,2 @@
+swri_console
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/yi/catkin_GUI/src/ros_logger/devel -DCMAKE_INSTALL_PREFIX=/home/yi/catkin_GUI/src/ros_logger/install -G Unix Makefiles
